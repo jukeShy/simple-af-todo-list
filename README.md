@@ -1,5 +1,5 @@
 ## Простой Todo list без Redux, Context API.
-[А тут можно и посмотреть](https://react-blockpost.netlify.com/)
+[А тут можно и посмотреть](https://react-todoz.netlify.com/)
 
 ### Что я узнал/практиковал:
 
