@@ -1,0 +1,5 @@
+li.collection-item a {
+  display: inline-block;
+  color: #4CAF50;
+  border-bottom: 1px solid;
+}

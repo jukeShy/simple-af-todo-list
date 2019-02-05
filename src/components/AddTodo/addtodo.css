@@ -1,0 +1,14 @@
+.form-group {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+input {
+  flex: 0 0 90%;
+  max-width: 90%;
+}
+
+.btn {
+  flex-shrink: 0;
+}

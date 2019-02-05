@@ -1,0 +1,15 @@
+header {
+  padding: 1.2em 0;
+  color: #fff;
+}
+
+h1 {
+  margin: 0;
+  font-weight: 300;
+  font-size: 32px;
+}
+
+a,
+a:visited {
+  color: inherit;
+}
